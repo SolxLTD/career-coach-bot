@@ -9,6 +9,12 @@ from sklearn.metrics.pairwise import cosine_similarity
 nltk.download('punkt')
 nltk.download('stopwords')
 
+import nltk
+nltk.download('punkt')
+nltk.download('stopwords')
+exit()
+
+
 from nltk.corpus import stopwords
 from nltk.tokenize import sent_tokenize, word_tokenize
 
